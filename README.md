@@ -3,7 +3,7 @@
 
 Welcome to the official repository of my personal developer portfolio! This website showcases my journey, technical skills, and projects across **Web Development, Cybersecurity, Software, and Hardware**.
 
-🌐 **Live Website:** [https://github.io](https://github.io) *(अपना लाइव लिंक यहाँ चेक कर लें)*
+🌐 **Live Website:** [https://github.io](https://github.io) 
 
 ---
 
